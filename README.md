@@ -12,7 +12,7 @@
 - 🛠️ System Design & Backend Development  
 
 💞️ Looking to Collaborate On  
-- 🎯 Open Source Projects & GSoC  
+- 🎯 Open Source Projects 
 - 📊 AI/ML-based Projects & Research  
 - 🌍 Web Apps & Scalable Backend Systems  
 
