@@ -18,7 +18,7 @@
 
 📫 How to Reach Me  
 - 📩 Email: Safiyafatima54@gmail.com
-- 💬 LinkedIn: https://www.linkedin.com/in/safiya-fatima-5559272b6/
+- 💬 LinkedIn: https://www.linkedin.com/in/safiya-fatima-5559272b6/  
 <!---
 Soha721/Soha721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
