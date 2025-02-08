@@ -2,7 +2,7 @@
 🚀 Passionate about Machine Learning, Open Source, and Web Development.  
 
 👀 Interests    
-- 🤖 AI/ML Enthusiast | Love working with Python, TensorFlow, and PyTorch  
+- 🤖 AI/ML Enthusiast | Love working with Python, TensorFlow, and PyTorch   
 - 🌐 Full-Stack Web Developer | React, Node.js, Express, MongoDB  
 - 🏆 Open Source Contributor | Actively participating in Hackathons and open source communities
  
