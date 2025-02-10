@@ -1,5 +1,5 @@
 👋 Hi, I’m Safiya!  
-🚀 Passionate about Machine Learning, Open Source, and Web Development.  
+🚀 Passionate about Machine Learning, Open Source, and Web Development.     
 
 👀 Interests    
 - 🤖 AI/ML Enthusiast | Love working with Python, TensorFlow, and PyTorch     
